@@ -1,0 +1,543 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Jun 2021 23:08:55 at https://igsosana.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://igsosana.org -O1 "C:\My Web Sites\igsosana" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:10:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/ocean-elementor-widgets/assets/css/style.min.css?ver=5.7.2 (from https://igsosana.org/)
+23:11:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.2.5 (from https://igsosana.org/)
+23:11:05	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/7 (from https://igsosana.org/)
+23:11:05	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2F (from https://igsosana.org/)
+23:11:05	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2F&format=xml (from https://igsosana.org/)
+23:11:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2018/12/cropped-IGSOSANA-site-icon-32x32.jpg (from https://igsosana.org/)
+23:11:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/about-us/the-alumni/executive-officers/ (from https://igsosana.org/)
+23:13:58	Warning: 	Unexpected socket error during pre-loop
+23:14:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/Dues (from https://igsosana.org/)
+23:14:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/ocean-cookie-notice/assets/js/main.min.js (from https://igsosana.org/)
+23:14:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/ocean-portfolio/assets/js/main.min.js?ver=1.1.3 (from https://igsosana.org/)
+23:14:07	Error: 	"Not Found" (404) at link https://igsosana.org/wp-content/plugins/ultimate-elementor/assets/images/shade.png (from https://igsosana.org/wp-content/plugins/ultimate-elementor/assets/min-css/uael-frontend.min.css?ver=1.32.1)
+23:14:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot? (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:14:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:14:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:14:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:14:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot? (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:14:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2018/09/home38-bg05.jpg (from https://igsosana.org/wp-content/uploads/elementor/css/post-7.css?ver=1624812215)
+23:14:17	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/268 (from https://igsosana.org/about-us/the-alumni/)
+23:14:17	Warning: 	Moved Permanently for https://igsosana.org/?p=268
+23:14:17	Warning: 	File has moved from https://igsosana.org/?p=268 to https://igsosana.org/about-us/the-alumni/
+23:14:17	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2F (from https://igsosana.org/about-us/the-alumni/)
+23:14:17	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2F&format=xml (from https://igsosana.org/about-us/the-alumni/)
+23:15:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/257 (from https://igsosana.org/about-us/the-alumni/who-we-are/)
+23:15:33	Warning: 	Moved Permanently for https://igsosana.org/?p=257
+23:15:33	Warning: 	File has moved from https://igsosana.org/?p=257 to https://igsosana.org/about-us/the-alumni/who-we-are/
+23:15:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fwho-we-are%2F (from https://igsosana.org/about-us/the-alumni/who-we-are/)
+23:15:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fwho-we-are%2F&format=xml (from https://igsosana.org/about-us/the-alumni/who-we-are/)
+23:15:54	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/309 (from https://igsosana.org/about-us/the-alumni/what-we-do/)
+23:15:54	Warning: 	Moved Permanently for https://igsosana.org/?p=309
+23:15:54	Warning: 	File has moved from https://igsosana.org/?p=309 to https://igsosana.org/about-us/the-alumni/what-we-do/
+23:15:54	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fwhat-we-do%2F (from https://igsosana.org/about-us/the-alumni/what-we-do/)
+23:15:54	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fwhat-we-do%2F&format=xml (from https://igsosana.org/about-us/the-alumni/what-we-do/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/315 (from https://igsosana.org/about-us/the-alumni/alumni-history/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=315
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=315 to https://igsosana.org/about-us/the-alumni/alumni-history/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Falumni-history%2F (from https://igsosana.org/about-us/the-alumni/alumni-history/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Falumni-history%2F&format=xml (from https://igsosana.org/about-us/the-alumni/alumni-history/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/361 (from https://igsosana.org/about-us/the-alumni/presidents-address/)
+23:17:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=361 (from https://igsosana.org/about-us/the-alumni/presidents-address/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fpresidents-address%2F (from https://igsosana.org/about-us/the-alumni/presidents-address/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fpresidents-address%2F&format=xml (from https://igsosana.org/about-us/the-alumni/presidents-address/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/280 (from https://igsosana.org/about-us/the-school/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=280
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=280 to https://igsosana.org/about-us/the-school/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2F (from https://igsosana.org/about-us/the-school/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2F&format=xml (from https://igsosana.org/about-us/the-school/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/282 (from https://igsosana.org/about-us/the-school/current-state-of-igs/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=282
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=282 to https://igsosana.org/about-us/the-school/current-state-of-igs/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fcurrent-state-of-igs%2F (from https://igsosana.org/about-us/the-school/current-state-of-igs/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fcurrent-state-of-igs%2F&format=xml (from https://igsosana.org/about-us/the-school/current-state-of-igs/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/336 (from https://igsosana.org/about-us/the-school/school-history/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=336
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=336 to https://igsosana.org/about-us/the-school/school-history/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fschool-history%2F (from https://igsosana.org/about-us/the-school/school-history/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fschool-history%2F&format=xml (from https://igsosana.org/about-us/the-school/school-history/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/348 (from https://igsosana.org/about-us/the-school/school-song/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=348
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=348 to https://igsosana.org/about-us/the-school/school-song/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fschool-song%2F (from https://igsosana.org/about-us/the-school/school-song/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fschool-song%2F&format=xml (from https://igsosana.org/about-us/the-school/school-song/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/350 (from https://igsosana.org/about-us/the-school/the-founder/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=350
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=350 to https://igsosana.org/about-us/the-school/the-founder/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fthe-founder%2F (from https://igsosana.org/about-us/the-school/the-founder/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fthe-founder%2F&format=xml (from https://igsosana.org/about-us/the-school/the-founder/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/352 (from https://igsosana.org/about-us/the-school/current-past-principals/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=352
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=352 to https://igsosana.org/about-us/the-school/current-past-principals/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fcurrent-past-principals%2F (from https://igsosana.org/about-us/the-school/current-past-principals/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-school%2Fcurrent-past-principals%2F&format=xml (from https://igsosana.org/about-us/the-school/current-past-principals/)
+23:17:18	Error: 	"Method Not Allowed" (405) at link https://igsosana.org/xmlrpc.php (from https://igsosana.org/school-song/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/290 (from https://igsosana.org/school-song/)
+23:17:18	Warning: 	Moved Permanently for https://igsosana.org/?p=290
+23:17:18	Warning: 	File has moved from https://igsosana.org/?p=290 to https://igsosana.org/school-song/
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fschool-song%2F (from https://igsosana.org/school-song/)
+23:17:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fschool-song%2F&format=xml (from https://igsosana.org/school-song/)
+23:17:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/367 (from https://igsosana.org/events/)
+23:17:19	Warning: 	Moved Permanently for https://igsosana.org/?p=367
+23:17:19	Warning: 	File has moved from https://igsosana.org/?p=367 to https://igsosana.org/events/
+23:17:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2F (from https://igsosana.org/events/)
+23:17:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2F&format=xml (from https://igsosana.org/events/)
+23:17:27	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/1326 (from https://igsosana.org/events/annual-convention/)
+23:17:27	Warning: 	Moved Permanently for https://igsosana.org/?p=1326
+23:17:27	Warning: 	File has moved from https://igsosana.org/?p=1326 to https://igsosana.org/events/annual-convention/
+23:17:27	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fannual-convention%2F (from https://igsosana.org/events/annual-convention/)
+23:17:27	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fannual-convention%2F&format=xml (from https://igsosana.org/events/annual-convention/)
+23:17:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.5.6 (from https://igsosana.org/events/annual-convention/)
+23:17:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0 (from https://igsosana.org/events/annual-convention/)
+23:17:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/374 (from https://igsosana.org/events/event-sponsorship/)
+23:17:33	Warning: 	Moved Permanently for https://igsosana.org/?p=374
+23:17:33	Warning: 	File has moved from https://igsosana.org/?p=374 to https://igsosana.org/events/event-sponsorship/
+23:17:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fevent-sponsorship%2F (from https://igsosana.org/events/event-sponsorship/)
+23:17:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fevent-sponsorship%2F&format=xml (from https://igsosana.org/events/event-sponsorship/)
+23:17:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/372 (from https://igsosana.org/events/past-events/)
+23:17:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=372 (from https://igsosana.org/events/past-events/)
+23:17:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fpast-events%2F (from https://igsosana.org/events/past-events/)
+23:17:33	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fpast-events%2F&format=xml (from https://igsosana.org/events/past-events/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/376 (from https://igsosana.org/connections/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=376
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=376 to https://igsosana.org/connections/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2F (from https://igsosana.org/connections/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2F&format=xml (from https://igsosana.org/connections/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/378 (from https://igsosana.org/connections/resources/)
+23:18:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=378 (from https://igsosana.org/connections/resources/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2F (from https://igsosana.org/connections/resources/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2F&format=xml (from https://igsosana.org/connections/resources/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/394 (from https://igsosana.org/connections/resources/newsroom/)
+23:18:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=394 (from https://igsosana.org/connections/resources/newsroom/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fnewsroom%2F (from https://igsosana.org/connections/resources/newsroom/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fnewsroom%2F&format=xml (from https://igsosana.org/connections/resources/newsroom/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/396 (from https://igsosana.org/connections/resources/faqs/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=396
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=396 to https://igsosana.org/connections/resources/faqs/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Ffaqs%2F (from https://igsosana.org/connections/resources/faqs/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Ffaqs%2F&format=xml (from https://igsosana.org/connections/resources/faqs/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/398 (from https://igsosana.org/connections/resources/ask-a-question/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=398
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=398 to https://igsosana.org/connections/resources/ask-a-question/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fask-a-question%2F (from https://igsosana.org/connections/resources/ask-a-question/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fask-a-question%2F&format=xml (from https://igsosana.org/connections/resources/ask-a-question/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/400 (from https://igsosana.org/connections/resources/useful-links/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=400
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=400 to https://igsosana.org/connections/resources/useful-links/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fuseful-links%2F (from https://igsosana.org/connections/resources/useful-links/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fuseful-links%2F&format=xml (from https://igsosana.org/connections/resources/useful-links/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/402 (from https://igsosana.org/connections/resources/members-only/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=402
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=402 to https://igsosana.org/connections/resources/members-only/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fmembers-only%2F (from https://igsosana.org/connections/resources/members-only/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fresources%2Fmembers-only%2F&format=xml (from https://igsosana.org/connections/resources/members-only/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/381 (from https://igsosana.org/connections/connect/)
+23:18:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=381 (from https://igsosana.org/connections/connect/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2F (from https://igsosana.org/connections/connect/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2F&format=xml (from https://igsosana.org/connections/connect/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/409 (from https://igsosana.org/connections/connect/photo-gallery/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=409
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=409 to https://igsosana.org/connections/connect/photo-gallery/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Fphoto-gallery%2F (from https://igsosana.org/connections/connect/photo-gallery/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Fphoto-gallery%2F&format=xml (from https://igsosana.org/connections/connect/photo-gallery/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/412 (from https://igsosana.org/connections/connect/video-gallery/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=412
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=412 to https://igsosana.org/connections/connect/video-gallery/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Fvideo-gallery%2F (from https://igsosana.org/connections/connect/video-gallery/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Fvideo-gallery%2F&format=xml (from https://igsosana.org/connections/connect/video-gallery/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/414 (from https://igsosana.org/connections/connect/obu-blog/)
+23:18:12	Warning: 	Moved Permanently for https://igsosana.org/?p=414
+23:18:12	Warning: 	File has moved from https://igsosana.org/?p=414 to https://igsosana.org/connections/connect/obu-blog/
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Fobu-blog%2F (from https://igsosana.org/connections/connect/obu-blog/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Fobu-blog%2F&format=xml (from https://igsosana.org/connections/connect/obu-blog/)
+23:18:12	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/416 (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:18:12	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=416 (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:18:19	Warning: 	Retry after error -4 (Receive Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Ffabus-slangs%2F (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:18:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Ffabus-slangs%2F&format=xml (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:18:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-418.css?ver=1624890133 (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/418 (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=418 (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Figsosa-attires%2F (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Figsosa-attires%2F&format=xml (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/04/Tie-sq.jpg (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:22	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/04/Scarf-sq.jpg (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:23	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/06/Bow-500x500-1.jpg (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:24	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/06/IGSOSA-Aso-oke.500x500jpg.jpg (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:18:25	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/383 (from https://igsosana.org/connections/get-involved/)
+23:18:26	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=383 (from https://igsosana.org/connections/get-involved/)
+23:18:27	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2F (from https://igsosana.org/connections/get-involved/)
+23:18:27	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2F&format=xml (from https://igsosana.org/connections/get-involved/)
+23:18:27	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-425.css?ver=1624812949 (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:27	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/425 (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:27	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=425 (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:29	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2F (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:31	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2F&format=xml (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:31	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/excellence-campaign-giving/ (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:35	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/seke-somolu-scholarship-fund/ (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:35	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/donate (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:35	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/redeem (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:35	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/events/advertisement-payment (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:35	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2018/09/igs-don-check.jpg (from https://igsosana.org/connections/get-involved/donate-online/)
+23:18:35	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-433.css?ver=1624813153 (from https://igsosana.org/connections/get-involved/projects/)
+23:18:38	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/433 (from https://igsosana.org/connections/get-involved/projects/)
+23:18:38	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=433 (from https://igsosana.org/connections/get-involved/projects/)
+23:18:42	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fprojects%2F (from https://igsosana.org/connections/get-involved/projects/)
+23:18:42	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fprojects%2F&format=xml (from https://igsosana.org/connections/get-involved/projects/)
+23:18:43	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/chemistry-biology-labs-renovation/ (from https://igsosana.org/connections/get-involved/projects/)
+23:18:43	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2018/10/1-after-300x204.jpg (from https://igsosana.org/connections/get-involved/projects/)
+23:18:43	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/the-106th-founders-day-celebrations/ (from https://igsosana.org/connections/get-involved/projects/)
+23:18:43	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-427.css?ver=1624813254 (from https://igsosana.org/connections/get-involved/membership/)
+23:18:43	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/427 (from https://igsosana.org/connections/get-involved/membership/)
+23:18:44	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=427 (from https://igsosana.org/connections/get-involved/membership/)
+23:18:49	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership%2F (from https://igsosana.org/connections/get-involved/membership/)
+23:18:50	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership%2F&format=xml (from https://igsosana.org/connections/get-involved/membership/)
+23:18:50	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2018/09/igs-ins-member.jpg (from https://igsosana.org/connections/get-involved/membership/)
+23:18:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-431.css?ver=1624824084 (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:18:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/431 (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:18:52	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=431 (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:18:52	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fbecome-a-member%2F (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:18:52	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fbecome-a-member%2F&format=xml (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:18:58	Warning: 	Retry after error -4 (Connect Error) at link igsosana.org/register (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:19:00	Warning: 	Retry after error -4 (Connect Error) at link igsosana.org/mspsecurex (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:19:00	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-429.css?ver=1624813222 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:19:01	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/429 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:19:01	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=429 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:19:01	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership-dues%2F (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:19:02	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership-dues%2F&format=xml (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:19:03	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2018/09/igs-ins-dues.jpg (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:19:07	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-1010.css?ver=1624812863 (from https://igsosana.org/dues-payment-form/)
+23:19:08	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/1010 (from https://igsosana.org/dues-payment-form/)
+23:19:08	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=1010 (from https://igsosana.org/dues-payment-form/)
+23:19:09	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdues-payment-form%2F (from https://igsosana.org/dues-payment-form/)
+23:19:10	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdues-payment-form%2F&format=xml (from https://igsosana.org/dues-payment-form/)
+23:19:11	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-440.css?ver=1624812909 (from https://igsosana.org/contact/)
+23:19:11	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/440 (from https://igsosana.org/contact/)
+23:19:13	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=440 (from https://igsosana.org/contact/)
+23:19:13	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fcontact%2F (from https://igsosana.org/contact/)
+23:19:16	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fcontact%2F&format=xml (from https://igsosana.org/contact/)
+23:19:16	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2018/09/chapel-1024x711.jpg (from https://igsosana.org/contact/)
+23:19:17	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-1448.css?ver=1624895122 (from https://igsosana.org/events/excellence/)
+23:19:17	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/1448 (from https://igsosana.org/events/excellence/)
+23:19:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=1448 (from https://igsosana.org/events/excellence/)
+23:19:19	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fexcellence%2F (from https://igsosana.org/events/excellence/)
+23:19:23	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fexcellence%2F&format=xml (from https://igsosana.org/events/excellence/)
+23:19:23	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/01/IGSCenterOfExcellenceCampaign-f.pdf (from https://igsosana.org/events/excellence/)
+23:19:23	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/01/ebanking-login.jpg (from https://igsosana.org/events/excellence/)
+23:19:25	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2020/01/nigerian-naira-notes.jpg (from https://igsosana.org/events/excellence/)
+23:19:25	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-1744.css?ver=1624864063 (from https://igsosana.org/vc2020-survey/)
+23:19:26	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/1744 (from https://igsosana.org/vc2020-survey/)
+23:19:28	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=1744 (from https://igsosana.org/vc2020-survey/)
+23:19:28	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fvc2020-survey%2F (from https://igsosana.org/vc2020-survey/)
+23:19:29	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fvc2020-survey%2F&format=xml (from https://igsosana.org/vc2020-survey/)
+23:19:29	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/1546 (from https://igsosana.org/attire-store/)
+23:19:32	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=1546 (from https://igsosana.org/attire-store/)
+23:19:32	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fattire-store%2F (from https://igsosana.org/attire-store/)
+23:19:33	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fattire-store%2F&format=xml (from https://igsosana.org/attire-store/)
+23:19:33	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/Dues (from https://igsosana.org/)
+23:19:38	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/plugins/ocean-cookie-notice/assets/js/main.min.js (from https://igsosana.org/)
+23:19:38	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/plugins/ocean-portfolio/assets/js/main.min.js?ver=1.1.3 (from https://igsosana.org/)
+23:19:38	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/plugins/ocean-elementor-widgets/assets/img/loader.svg (from https://igsosana.org/wp-content/plugins/ocean-elementor-widgets/assets/css/style.min.css?ver=5.7.2)
+23:19:39	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot? (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:19:40	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:19:40	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:19:41	Warning: 	Retry after error -4 (Incorrect length (130456 Bytes, 204814 expected)) at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot? (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:19:41	Warning: 	Retry after error -4 (Incorrect length (81920 Bytes, 114802 expected)) at link https://igsosana.org/wp-content/uploads/2018/09/home38-bg05.jpg (from https://igsosana.org/wp-content/uploads/elementor/css/post-7.css?ver=1624812215)
+23:19:41	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/266 (from https://igsosana.org/about-us/)
+23:19:41	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=266 (from https://igsosana.org/about-us/)
+23:19:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2F (from https://igsosana.org/about-us/)
+23:19:45	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2F&format=xml (from https://igsosana.org/about-us/)
+23:19:46	Warning: 	Retry after error -4 (Connect Error) at link igsosana.org/wp-content/uploads/2018/09/imagebox09-bg02.jpg (from https://igsosana.org/wp-content/uploads/elementor/css/post-309.css?ver=1624868945)
+23:19:49	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/elementor/css/post-312.css?ver=1624828125 (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:50	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/pages/312 (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=312 (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fexecutive-officers%2F (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fexecutive-officers%2F&format=xml (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/09/Adeyemi-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:51	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/09/Motunrayo-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:52	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2021/04/isola-ajiferuke.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:54	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/09/Oluyemi.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:56	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/10/DejiOjetola.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:56	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/10/Akin-Johnson.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:58	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/10/Olawunmi.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:58	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/09/Okuwoga-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:59	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/09/Osinbowale-19-1.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:59	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-content/uploads/2019/09/Bakare-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:19:59	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/?p=361 (from https://igsosana.org/about-us/the-alumni/presidents-address/)
+23:19:59	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/category/uncategorized/feed/ (from https://igsosana.org/category/uncategorized/)
+23:20:00	Warning: 	Retry after error -4 (Connect Error) at link https://igsosana.org/wp-json/wp/v2/categories/1 (from https://igsosana.org/category/uncategorized/)
+23:20:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=372 (from https://igsosana.org/events/past-events/)
+23:20:04	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/new-jersey/feed/ (from https://igsosana.org/portfolio/new-jersey/)
+23:20:09	Warning: 	Moved Permanently for https://igsosana.org/?p=547
+23:20:09	Warning: 	File has moved from https://igsosana.org/?p=547 to https://igsosana.org/portfolio/new-jersey/
+23:20:09	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fnew-jersey%2F (from https://igsosana.org/portfolio/new-jersey/)
+23:20:09	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fnew-jersey%2F&format=xml (from https://igsosana.org/portfolio/new-jersey/)
+23:20:11	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/atlanta/feed/ (from https://igsosana.org/portfolio/atlanta/)
+23:20:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=542 (from https://igsosana.org/portfolio/atlanta/)
+23:20:13	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fatlanta%2F (from https://igsosana.org/portfolio/atlanta/)
+23:20:15	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fatlanta%2F&format=xml (from https://igsosana.org/portfolio/atlanta/)
+23:20:18	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/washington-dc/feed/ (from https://igsosana.org/portfolio/washington-dc/)
+23:20:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=540 (from https://igsosana.org/portfolio/washington-dc/)
+23:20:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fwashington-dc%2F (from https://igsosana.org/portfolio/washington-dc/)
+23:20:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fwashington-dc%2F&format=xml (from https://igsosana.org/portfolio/washington-dc/)
+23:20:18	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/los-angeles/feed/ (from https://igsosana.org/portfolio/los-angeles/)
+23:20:18	Warning: 	Moved Permanently for https://igsosana.org/?p=538
+23:20:18	Warning: 	File has moved from https://igsosana.org/?p=538 to https://igsosana.org/portfolio/los-angeles/
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Flos-angeles%2F (from https://igsosana.org/portfolio/los-angeles/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Flos-angeles%2F&format=xml (from https://igsosana.org/portfolio/los-angeles/)
+23:20:19	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/chicago/feed/ (from https://igsosana.org/portfolio/chicago/)
+23:20:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=536 (from https://igsosana.org/portfolio/chicago/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fchicago%2F (from https://igsosana.org/portfolio/chicago/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fchicago%2F&format=xml (from https://igsosana.org/portfolio/chicago/)
+23:20:19	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/toronto/feed/ (from https://igsosana.org/portfolio/toronto/)
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=534
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=534 to https://igsosana.org/portfolio/toronto/
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Ftoronto%2F (from https://igsosana.org/portfolio/toronto/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Ftoronto%2F&format=xml (from https://igsosana.org/portfolio/toronto/)
+23:20:19	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/houston/feed/ (from https://igsosana.org/portfolio/houston/)
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=532
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=532 to https://igsosana.org/portfolio/houston/
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fhouston%2F (from https://igsosana.org/portfolio/houston/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fhouston%2F&format=xml (from https://igsosana.org/portfolio/houston/)
+23:20:19	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/boston/feed/ (from https://igsosana.org/portfolio/boston/)
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=549
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=549 to https://igsosana.org/portfolio/boston/
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fboston%2F (from https://igsosana.org/portfolio/boston/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fboston%2F&format=xml (from https://igsosana.org/portfolio/boston/)
+23:20:19	Error: 	"Not Found" (404) at link https://igsosana.org/portfolio/washington-dc-2008/feed/ (from https://igsosana.org/portfolio/washington-dc-2008/)
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=557
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=557 to https://igsosana.org/portfolio/washington-dc-2008/
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fwashington-dc-2008%2F (from https://igsosana.org/portfolio/washington-dc-2008/)
+23:20:19	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fportfolio%2Fwashington-dc-2008%2F&format=xml (from https://igsosana.org/portfolio/washington-dc-2008/)
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=378
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=378 to https://igsosana.org/connections/resources/
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=394
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=394 to https://igsosana.org/connections/resources/newsroom/
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=381
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=381 to https://igsosana.org/connections/connect/
+23:20:19	Warning: 	Moved Permanently for https://igsosana.org/?p=416
+23:20:19	Warning: 	File has moved from https://igsosana.org/?p=416 to https://igsosana.org/connections/connect/fabus-slangs/
+23:20:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Ffabus-slangs%2F (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:20:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Ffabus-slangs%2F&format=xml (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:20:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-418.css?ver=1624890133 (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:20:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/wp/v2/pages/418 (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:20:23	Warning: 	Moved Permanently for https://igsosana.org/?p=418
+23:20:23	Warning: 	File has moved from https://igsosana.org/?p=418 to https://igsosana.org/connections/connect/igsosa-attires/
+23:20:23	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Figsosa-attires%2F (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:20:23	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Figsosa-attires%2F&format=xml (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:20:23	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/383 (from https://igsosana.org/connections/get-involved/)
+23:20:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=383 (from https://igsosana.org/connections/get-involved/)
+23:20:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2F (from https://igsosana.org/connections/get-involved/)
+23:20:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2F&format=xml (from https://igsosana.org/connections/get-involved/)
+23:20:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/425 (from https://igsosana.org/connections/get-involved/donate-online/)
+23:20:25	Warning: 	Moved Permanently for https://igsosana.org/?p=425
+23:20:25	Warning: 	File has moved from https://igsosana.org/?p=425 to https://igsosana.org/connections/get-involved/donate-online/
+23:20:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2F (from https://igsosana.org/connections/get-involved/donate-online/)
+23:20:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2F&format=xml (from https://igsosana.org/connections/get-involved/donate-online/)
+23:20:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/seke-somolu-scholarship-fund/ (from https://igsosana.org/connections/get-involved/donate-online/)
+23:20:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/donate (from https://igsosana.org/connections/get-involved/donate-online/)
+23:20:33	Warning: 	Moved Permanently for https://igsosana.org/redeem
+23:20:33	Warning: 	File has moved from https://igsosana.org/redeem to https://igsosana.org/redeem/
+23:20:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/events/advertisement-payment (from https://igsosana.org/connections/get-involved/donate-online/)
+23:20:37	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/433 (from https://igsosana.org/connections/get-involved/projects/)
+23:20:37	Warning: 	Moved Permanently for https://igsosana.org/?p=433
+23:20:37	Warning: 	File has moved from https://igsosana.org/?p=433 to https://igsosana.org/connections/get-involved/projects/
+23:20:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fprojects%2F (from https://igsosana.org/connections/get-involved/projects/)
+23:20:37	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fprojects%2F&format=xml (from https://igsosana.org/connections/get-involved/projects/)
+23:20:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/chemistry-biology-labs-renovation/ (from https://igsosana.org/connections/get-involved/projects/)
+23:20:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2018/10/1-after-300x204.jpg (from https://igsosana.org/connections/get-involved/projects/)
+23:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-427.css?ver=1624813254 (from https://igsosana.org/connections/get-involved/membership/)
+23:21:03	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/427 (from https://igsosana.org/connections/get-involved/membership/)
+23:21:03	Warning: 	Moved Permanently for https://igsosana.org/?p=427
+23:21:03	Warning: 	File has moved from https://igsosana.org/?p=427 to https://igsosana.org/connections/get-involved/membership/
+23:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership%2F (from https://igsosana.org/connections/get-involved/membership/)
+23:21:03	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership%2F&format=xml (from https://igsosana.org/connections/get-involved/membership/)
+23:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-431.css?ver=1624824084 (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:21:03	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/431 (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=431 (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:21:03	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fbecome-a-member%2F (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:21:03	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fbecome-a-member%2F&format=xml (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:21:03	Error: 	"Not Found" (404) at link igsosana.org/register (from https://igsosana.org/connections/get-involved/become-a-member/)
+23:21:03	Warning: 	Found for igsosana.org/mspsecurex
+23:21:03	Warning: 	Redirected link is identical because of 'URL Hack' option: igsosana.org/mspsecurex and https://igsosana.org/mspsecurex
+23:21:03	Warning: 	File has moved from igsosana.org/mspsecurex to https://igsosana.org/mspsecurex
+23:21:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-429.css?ver=1624813222 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:21:08	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/429 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:21:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=429 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:21:08	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership-dues%2F (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:21:08	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership-dues%2F&format=xml (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:21:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/wp/v2/pages/1010 (from https://igsosana.org/dues-payment-form/)
+23:21:08	Warning: 	Moved Permanently for https://igsosana.org/?p=1010
+23:21:08	Warning: 	File has moved from https://igsosana.org/?p=1010 to https://igsosana.org/dues-payment-form/
+23:21:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdues-payment-form%2F (from https://igsosana.org/dues-payment-form/)
+23:21:09	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdues-payment-form%2F&format=xml (from https://igsosana.org/dues-payment-form/)
+23:21:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-440.css?ver=1624812909 (from https://igsosana.org/contact/)
+23:21:09	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/440 (from https://igsosana.org/contact/)
+23:21:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=440 (from https://igsosana.org/contact/)
+23:21:09	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fcontact%2F (from https://igsosana.org/contact/)
+23:21:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fcontact%2F&format=xml (from https://igsosana.org/contact/)
+23:21:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-1448.css?ver=1624895122 (from https://igsosana.org/events/excellence/)
+23:21:09	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/1448 (from https://igsosana.org/events/excellence/)
+23:21:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=1448 (from https://igsosana.org/events/excellence/)
+23:21:11	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fexcellence%2F (from https://igsosana.org/events/excellence/)
+23:21:11	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fevents%2Fexcellence%2F&format=xml (from https://igsosana.org/events/excellence/)
+23:21:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2020/01/IGSCenterOfExcellenceCampaign-f.pdf (from https://igsosana.org/events/excellence/)
+23:21:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2020/01/nigerian-naira-notes.jpg (from https://igsosana.org/events/excellence/)
+23:21:13	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/1744 (from https://igsosana.org/vc2020-survey/)
+23:21:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=1744 (from https://igsosana.org/vc2020-survey/)
+23:21:17	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fvc2020-survey%2F (from https://igsosana.org/vc2020-survey/)
+23:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fvc2020-survey%2F&format=xml (from https://igsosana.org/vc2020-survey/)
+23:21:17	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/1546 (from https://igsosana.org/attire-store/)
+23:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=1546 (from https://igsosana.org/attire-store/)
+23:21:17	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fattire-store%2F (from https://igsosana.org/attire-store/)
+23:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fattire-store%2F&format=xml (from https://igsosana.org/attire-store/)
+23:21:17	Warning: 	Temporary Redirect for https://igsosana.org/Dues
+23:21:17	Warning: 	File has moved from https://igsosana.org/Dues to https://igsosana.org/dues-payment-form/
+23:21:17	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-content/plugins/ocean-cookie-notice/assets/js/main.min.js (from https://igsosana.org/)
+23:21:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/plugins/ocean-elementor-widgets/assets/img/loader.svg (from https://igsosana.org/wp-content/plugins/ocean-elementor-widgets/assets/css/style.min.css?ver=5.7.2)
+23:21:18	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 (from https://igsosana.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.2.5)
+23:21:18	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-content/uploads/2018/09/home38-bg05.jpg (from https://igsosana.org/wp-content/uploads/elementor/css/post-7.css?ver=1624812215)
+23:21:18	Warning: 	Moved Permanently for https://igsosana.org/?p=266
+23:21:18	Warning: 	File has moved from https://igsosana.org/?p=266 to https://igsosana.org/about-us/
+23:21:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2F (from https://igsosana.org/about-us/)
+23:21:18	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2F&format=xml (from https://igsosana.org/about-us/)
+23:21:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/wp/v2/pages/312 (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:21:19	Warning: 	Moved Permanently for https://igsosana.org/?p=312
+23:21:19	Warning: 	File has moved from https://igsosana.org/?p=312 to https://igsosana.org/about-us/the-alumni/executive-officers/
+23:21:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fexecutive-officers%2F (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:21:24	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fexecutive-officers%2F&format=xml (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:21:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/09/Adeyemi-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:21:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/09/Osinbowale-19-1.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:21:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/09/Bakare-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:21:26	Warning: 	Moved Permanently for https://igsosana.org/?p=361
+23:21:26	Warning: 	File has moved from https://igsosana.org/?p=361 to https://igsosana.org/about-us/the-alumni/presidents-address/
+23:21:26	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/categories/1 (from https://igsosana.org/category/uncategorized/)
+23:21:26	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/?p=372 (from https://igsosana.org/events/past-events/)
+23:21:26	Error: 	"Forbidden" (403) at link https://igsosana.org/wp-json/wp/v2/users/1 (from https://igsosana.org/author/msporgad/)
+23:21:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/category/projects/ (from https://igsosana.org/author/msporgad/)
+23:21:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2018/09/Soji-Adeyemi-p.jpg (from https://igsosana.org/author/msporgad/)
+23:21:48	Warning: 	Moved Permanently for https://igsosana.org/?p=542
+23:21:48	Warning: 	File has moved from https://igsosana.org/?p=542 to https://igsosana.org/portfolio/atlanta/
+23:21:48	Warning: 	Moved Permanently for https://igsosana.org/?p=540
+23:21:48	Warning: 	File has moved from https://igsosana.org/?p=540 to https://igsosana.org/portfolio/washington-dc/
+23:21:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=536 (from https://igsosana.org/portfolio/chicago/)
+23:21:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Ffabus-slangs%2F (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:21:50	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fconnect%2Ffabus-slangs%2F&format=xml (from https://igsosana.org/connections/connect/fabus-slangs/)
+23:21:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/wp/v2/pages/418 (from https://igsosana.org/connections/connect/igsosa-attires/)
+23:21:50	Warning: 	Moved Permanently for https://igsosana.org/?p=383
+23:21:50	Warning: 	File has moved from https://igsosana.org/?p=383 to https://igsosana.org/connections/get-involved/
+23:21:50	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2F (from https://igsosana.org/connections/get-involved/)
+23:21:50	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2F&format=xml (from https://igsosana.org/connections/get-involved/)
+23:21:50	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2F&format=xml (from https://igsosana.org/connections/get-involved/donate-online/)
+23:21:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-2101.css?ver=1624895515 (from https://igsosana.org/excellence-campaign-giving/)
+23:21:51	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/2101 (from https://igsosana.org/excellence-campaign-giving/)
+23:21:51	Warning: 	Moved Permanently for https://igsosana.org/?p=2101
+23:21:51	Warning: 	File has moved from https://igsosana.org/?p=2101 to https://igsosana.org/excellence-campaign-giving/
+23:21:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fexcellence-campaign-giving%2F (from https://igsosana.org/excellence-campaign-giving/)
+23:21:51	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fexcellence-campaign-giving%2F&format=xml (from https://igsosana.org/excellence-campaign-giving/)
+23:21:58	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/seke-somolu-scholarship-fund/ (from https://igsosana.org/connections/get-involved/donate-online/)
+23:21:58	Warning: 	Moved Permanently for https://igsosana.org/donate
+23:21:58	Warning: 	File has moved from https://igsosana.org/donate to https://igsosana.org/connections/get-involved/donate-online/donate/
+23:22:02	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/events/advertisement-payment (from https://igsosana.org/connections/get-involved/donate-online/)
+23:22:02	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fprojects%2F (from https://igsosana.org/connections/get-involved/projects/)
+23:22:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/the-106th-founders-day-celebrations/feed/ (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:10	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/1243 (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:10	Warning: 	Moved Permanently for https://igsosana.org/?p=1243
+23:22:10	Warning: 	File has moved from https://igsosana.org/?p=1243 to https://igsosana.org/the-106th-founders-day-celebrations/
+23:22:10	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fthe-106th-founders-day-celebrations%2F (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:10	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fthe-106th-founders-day-celebrations%2F&format=xml (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/05/pic3.jpg (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/05/L4.jpg (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/05/L1-150x150.jpg (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:22:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fmembership%2F (from https://igsosana.org/connections/get-involved/membership/)
+23:22:14	Warning: 	Moved Permanently for https://igsosana.org/?p=431
+23:22:14	Warning: 	File has moved from https://igsosana.org/?p=431 to https://igsosana.org/connections/get-involved/become-a-member/
+23:22:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/?p=429 (from https://igsosana.org/connections/get-involved/membership-dues/)
+23:22:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/wp/v2/pages/1010 (from https://igsosana.org/dues-payment-form/)
+23:22:14	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdues-payment-form%2F (from https://igsosana.org/dues-payment-form/)
+23:22:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/?p=440 (from https://igsosana.org/contact/)
+23:22:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fcontact%2F&format=xml (from https://igsosana.org/contact/)
+23:22:18	Warning: 	Moved Permanently for https://igsosana.org/?p=1448
+23:22:18	Warning: 	File has moved from https://igsosana.org/?p=1448 to https://igsosana.org/events/excellence/
+23:23:59	Warning: 	Moved Permanently for https://igsosana.org/?p=1744
+23:23:59	Warning: 	File has moved from https://igsosana.org/?p=1744 to https://igsosana.org/vc2020-survey/
+23:23:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fvc2020-survey%2F&format=xml (from https://igsosana.org/vc2020-survey/)
+23:23:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/?p=1546 (from https://igsosana.org/attire-store/)
+23:23:59	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fattire-store%2F&format=xml (from https://igsosana.org/attire-store/)
+23:23:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-json/wp/v2/pages/312 (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:23:59	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fabout-us%2Fthe-alumni%2Fexecutive-officers%2F (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:23:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-content/uploads/2019/09/Adeyemi-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:23:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://igsosana.org/wp-content/uploads/2019/09/Bakare-19.jpg (from https://igsosana.org/about-us/the-alumni/executive-officers/)
+23:24:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-989.css?ver=1624837762 (from https://igsosana.org/soji-adeyemi/)
+23:24:04	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/848 (from https://igsosana.org/soji-adeyemi/)
+23:24:04	Warning: 	Moved Permanently for https://igsosana.org/?p=848
+23:24:04	Warning: 	File has moved from https://igsosana.org/?p=848 to https://igsosana.org/soji-adeyemi/
+23:24:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fsoji-adeyemi%2F (from https://igsosana.org/soji-adeyemi/)
+23:24:04	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fsoji-adeyemi%2F&format=xml (from https://igsosana.org/soji-adeyemi/)
+23:24:10	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/categories/12 (from https://igsosana.org/category/executives/)
+23:24:20	Warning: 	Moved Permanently for https://igsosana.org/author/msporgad/page/1/
+23:24:20	Warning: 	File has moved from https://igsosana.org/author/msporgad/page/1/ to https://igsosana.org/author/msporgad/
+23:24:25	Warning: 	Moved Permanently for https://igsosana.org/?p=536
+23:24:25	Warning: 	File has moved from https://igsosana.org/?p=536 to https://igsosana.org/portfolio/chicago/
+23:24:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/elementor/css/post-2101.css?ver=1624895515 (from https://igsosana.org/excellence-campaign-giving/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fexcellence-campaign-giving%2F (from https://igsosana.org/excellence-campaign-giving/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/1018 (from https://igsosana.org/connections/get-involved/donate-online/donate/)
+23:24:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=1018 (from https://igsosana.org/connections/get-involved/donate-online/donate/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2Fdonate%2F (from https://igsosana.org/connections/get-involved/donate-online/donate/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fconnections%2Fget-involved%2Fdonate-online%2Fdonate%2F&format=xml (from https://igsosana.org/connections/get-involved/donate-online/donate/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/pages/1047 (from https://igsosana.org/redeem/)
+23:24:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=1047 (from https://igsosana.org/redeem/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fredeem%2F (from https://igsosana.org/redeem/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fredeem%2F&format=xml (from https://igsosana.org/redeem/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/981 (from https://igsosana.org/chemistry-biology-labs-renovation/)
+23:24:25	Warning: 	Moved Permanently for https://igsosana.org/?p=981
+23:24:25	Warning: 	File has moved from https://igsosana.org/?p=981 to https://igsosana.org/chemistry-biology-labs-renovation/
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fchemistry-biology-labs-renovation%2F (from https://igsosana.org/chemistry-biology-labs-renovation/)
+23:24:25	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fchemistry-biology-labs-renovation%2F&format=xml (from https://igsosana.org/chemistry-biology-labs-renovation/)
+23:24:25	Error: 	"Not Found" (404) at link https://igsosana.org/asp-products/chemistry-biology-lab-drive/ (from https://igsosana.org/chemistry-biology-labs-renovation/)
+23:24:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/the-106th-founders-day-celebrations/feed/ (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:24:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/05/L4.jpg (from https://igsosana.org/the-106th-founders-day-celebrations/)
+23:24:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-content/uploads/2019/11/IMG_0346.jpg (from https://igsosana.org/wp-content/uploads/elementor/css/post-1448.css?ver=1624895122)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/categories/13 (from https://igsosana.org/category/projects/)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fsoji-adeyemi%2F (from https://igsosana.org/soji-adeyemi/)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/484 (from https://igsosana.org/ola-olafunmiloye/)
+23:24:30	Warning: 	Moved Permanently for https://igsosana.org/?p=484
+23:24:30	Warning: 	File has moved from https://igsosana.org/?p=484 to https://igsosana.org/ola-olafunmiloye/
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fola-olafunmiloye%2F (from https://igsosana.org/ola-olafunmiloye/)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fola-olafunmiloye%2F&format=xml (from https://igsosana.org/ola-olafunmiloye/)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/482 (from https://igsosana.org/yinka-omole/)
+23:24:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=482 (from https://igsosana.org/yinka-omole/)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fyinka-omole%2F (from https://igsosana.org/yinka-omole/)
+23:24:30	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fyinka-omole%2F&format=xml (from https://igsosana.org/yinka-omole/)
+23:24:30	Warning: 	Moved Permanently for https://igsosana.org/category/executives/page/1/
+23:24:30	Warning: 	File has moved from https://igsosana.org/category/executives/page/1/ to https://igsosana.org/category/executives/
+23:24:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/marty-adebowale-vice-president/feed/ (from https://igsosana.org/marty-adebowale-vice-president/)
+23:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/wp/v2/posts/479 (from https://igsosana.org/marty-adebowale-vice-president/)
+23:24:31	Warning: 	Moved Permanently for https://igsosana.org/?p=479
+23:24:31	Warning: 	File has moved from https://igsosana.org/?p=479 to https://igsosana.org/marty-adebowale-vice-president/
+23:24:31	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fmarty-adebowale-vice-president%2F (from https://igsosana.org/marty-adebowale-vice-president/)
+23:24:31	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fmarty-adebowale-vice-president%2F&format=xml (from https://igsosana.org/marty-adebowale-vice-president/)
+23:24:31	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/467 (from https://igsosana.org/dr-yinka-okuwoga/)
+23:24:31	Warning: 	Moved Permanently for https://igsosana.org/?p=467
+23:24:31	Warning: 	File has moved from https://igsosana.org/?p=467 to https://igsosana.org/dr-yinka-okuwoga/
+23:24:31	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdr-yinka-okuwoga%2F (from https://igsosana.org/dr-yinka-okuwoga/)
+23:24:31	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Figsosana.org%2Fdr-yinka-okuwoga%2F&format=xml (from https://igsosana.org/dr-yinka-okuwoga/)
+23:24:31	Warning: 	Moved Permanently for https://igsosana.org/?p=1018
+23:24:31	Warning: 	File has moved from https://igsosana.org/?p=1018 to https://igsosana.org/connections/get-involved/donate-online/donate/
+23:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=1047 (from https://igsosana.org/redeem/)
+23:24:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/?p=482 (from https://igsosana.org/yinka-omole/)
+23:24:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://igsosana.org/wp-json/wp/v2/posts/479 (from https://igsosana.org/marty-adebowale-vice-president/)
+23:24:35	Warning: 	Moved Permanently for https://igsosana.org/?p=1047
+23:24:35	Warning: 	File has moved from https://igsosana.org/?p=1047 to https://igsosana.org/redeem/
+23:24:35	Warning: 	Moved Permanently for https://igsosana.org/?p=482
+23:24:35	Warning: 	File has moved from https://igsosana.org/?p=482 to https://igsosana.org/yinka-omole/
+23:24:36	Error: 	"Unauthorized" (401) at link https://igsosana.org/wp-json/wp/v2/posts/479 (from https://igsosana.org/marty-adebowale-vice-president/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 41 seconds : 848 links scanned, 379 files written (40501826 bytes overall) [29173656 bytes received at 31002 bytes/sec], 16972608 bytes transferred using HTTP compression in 220 files, ratio 23%, 3.0 requests per connection
+(205 errors, 327 warnings, 0 messages)
